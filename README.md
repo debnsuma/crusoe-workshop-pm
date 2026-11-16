@@ -44,7 +44,7 @@ cd crusoe-workshop-pm
 ./setup.sh
 ```
 
-The first line downloads this project into a new folder called `crusoe-chat`. The second moves you into that folder. The third installs everything and asks for your API key.
+The first line downloads this project into a new folder called `crusoe-workshop-pm`. The second moves you into that folder. The third installs everything and asks for your API key.
 
 About two minutes. It installs a private copy of Python inside the project folder and changes nothing else on your machine.
 
