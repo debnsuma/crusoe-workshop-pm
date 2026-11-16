@@ -39,8 +39,8 @@ That is the only thing you will ever be asked for.
 Open **Terminal** (press `Cmd + Space`, type `Terminal`, press Return). Paste these three lines, one at a time, pressing Return after each:
 
 ```bash
-git clone https://github.com/<org>/crusoe-chat.git
-cd crusoe-chat
+git clone https://github.com/debnsuma/crusoe-workshop-pm.git
+cd crusoe-workshop-pm
 ./setup.sh
 ```
 
