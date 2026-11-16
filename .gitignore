@@ -1,0 +1,28 @@
+# Your API key. Never commit this.
+.env
+.env.*
+
+# Your saved conversations and anything you attach.
+sessions/
+
+# Python environment and build artefacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Editor and OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
